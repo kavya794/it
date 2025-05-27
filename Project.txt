@@ -1,1 +1,4 @@
 merged home, about branch to master branch
+=========
+checking for merege conflict
+>>>>>>>>> Temporary merge branch 2
